@@ -22,7 +22,7 @@ android {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     // compile 'com.android.support:appcompat-v7:22.2.0'
-    implementation 'com.google.android.gms:play-services:7.5.0'
+    implementation 'com.google.android.gms:play-services:12.0.1'
     implementation 'com.github.marcohc:Toasteroid:2.1.4'
 }
 
